@@ -3,7 +3,7 @@ layout: post
 title: "A short Story of a large life | Aadesh Shrivastava"
 date: 2015-09-06
 categories:
-  - Music and Lit.
+  - Music /Lit.
 description: 
 image: /img/aadesh.jpg
 ---
