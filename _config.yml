@@ -13,11 +13,13 @@ twitter_username: pratyush272
 default_img: 
 
 # Profile settings
-name: 
+name: Pratyush Srivastava
 profile_img: 
-profile: 
+profile: Engineer by popular demand, clueless by choice.
 social:
-  github: 
+  github: http://www.github.com/pratyush272
+  twitter: http://www.twitter.com/pratyush272
+  facebook: http://www.facebook.com/pratyush272page
 
 # Build settings
 include: ["_categories"]
