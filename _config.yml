@@ -17,9 +17,10 @@ name: Pratyush Srivastava
 profile_img: 
 profile: Engineer by popular demand, clueless by choice.
 social:
-  github: http://www.github.com/pratyush272
   twitter: http://www.twitter.com/pratyush272
   facebook: http://www.facebook.com/pratyush272page
+  instagram: http://instagram.com/pratyush272
+  youtube: https://www.youtube.com/channel/UC9g-VTTekAtqRukWDvi5B7A
 
 # Build settings
 include: ["_categories"]
