@@ -6,7 +6,7 @@ categories:
   - Inspiration
   - Music
 description: 
-image: /img/kalam1.jpg
+image: pratyush272.github.io/img/kalam1.jpg
 ---
 
 The song is based on “Muskurane ki vajah” from the movie Citylights. Lyrics re-written for Dr. A.P.J. Abdul Kalam.
