@@ -19,4 +19,4 @@ Most successful open source projects are driven by a core team of very talented 
 **Reason 3:** it’s a great way to improve your skills and resume  
 Contributing to open source projects will require you to learn something or solve a challenging problem. It also looks good on a resume. A potential employer can go and actually see what were your contributions.
 
-       In addition, I would add that if you are working on an open source project as a side thing, it gives you a break from your normal day-to-day activities. Sometimes, the change of project, tools, etc. enlightens you and helps you solve problems in other areas.
+ In addition to that, if you are working on an open source project as a side thing, it gives you a break from your normal day-to-day activities. Sometimes, the change of project, tools, etc. enlightens you and helps you solve problems in other areas.
