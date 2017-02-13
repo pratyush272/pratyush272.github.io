@@ -53,5 +53,3 @@ He remained a bachelor. He never used a moment of his life for himself. He was a
 He was vegetarian throughout his life.
 
 Here is a small tribute to this person, this human being who was my one and only role model.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P9ljhLK9suM" frameborder="0" allowfullscreen></iframe>
