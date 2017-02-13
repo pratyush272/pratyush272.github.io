@@ -8,12 +8,12 @@ description:
 image: /img/kalam1
 ---
 
-The song is based on “Muskurane ki vajah” from the movie Citylights. Lyrics re-written for Dr. A.P.J. Abdul Kalam.
+The song is based on â€œMuskurane ki vajahâ€ from the movie Citylights. Lyrics re-written for Dr. A.P.J. Abdul Kalam.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9ljhLK9suM" frameborder="0" allowfullscreen></iframe>
 
 Lyrics :-
-—————————————-­—————————————-­————-
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-Â­â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-Â­â€”â€”â€”â€”-
 Ek aansu behene na diya
 Shukriya tak kehne na diya
 Soona laage re viran hai yeh jahan tere bin kalam
@@ -33,11 +33,11 @@ par kya hota jo us khuda mein thoda sabar hota
 Aakhiri Vidvaan, akhiri insaan,
 akhiri ye kalam mera, akhiri salam
 Soona laage re veera hai ye jahan tere bin Kalam
-—————————————-­—————————————-­———
-Former President APJ Abdul Kalam, the ‘missile man’ who came to be known as ‘People’s President’ died on 27th July, 2015 after he collapsed during a lecture at the IIM in Shillong in the evening.
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-Â­â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-Â­â€”â€”â€”
+Former President APJ Abdul Kalam, the â€˜missile manâ€™ who came to be known as â€˜Peopleâ€™s Presidentâ€™ died on 27th July, 2015 after he collapsed during a lecture at the IIM in Shillong in the evening.
 Kalam suffered a massive cardiac arrest during the lecture. He was wheeled into the ICU of Bethany hospital in a critical condition.
 
-Unarguably, the most popular Indian president, Kalam became the 11th head of the state and occupied the post between 2002 and 2007 but lack of consensus denied a second term in office for a man who came from outside political spectrum.
+Unarguably, the most popular Indian president, Kalam became the 11th head of the state and occupied the post between 2002 and 2007 but lack of consensus, denied a second term in office for a man who came from outside political spectrum.
 
 A seven-day national mourning was declared by the Centre. Both the Houses of Parliament were adjourned as a mark of respect to his memory.
 
