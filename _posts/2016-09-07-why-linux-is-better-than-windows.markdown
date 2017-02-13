@@ -43,7 +43,7 @@ The Reliability and stability of Linux recommends it for all extreme tasks like 
 
 **Security:** Linux is and has always been a very secure operating system. Windows continues to be the most vulnerable to viruses and other attacks. It is really amusing how easy it is to install a spyware on a windows machine.
 
-![](https://http://www.dedoimedo.com/images/computers_years/2010_1/linux-security-teaser.png){:class="img-responsive"}
+![](http://www.dedoimedo.com/images/computers_years/2010_1/linux-security-teaser.png){:class="img-responsive"}
 
 **Open Source:**  Microsoft Windows and the majority of Windows programs are not open source. Whereas many of the Linux Distros and softwares are open source and enable users to customize or modify the code however they want to, (and legally too). Though this is particularly exciting for those who aren’t scared of a little programming, this does showcase the generosity and open nature of Linux community.
 
