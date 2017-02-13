@@ -5,8 +5,8 @@ date: 2017-01-21
 categories:
   - Programming
 description: 
-image: https://source.unsplash.com/xekxE_VR0Ec/2000/1200
-image-sm: https://source.unsplash.com/xekxE_VR0Ec/500/300
+image: https://source.unsplash.com/xekxE_VR0Ec/2000x1200
+image-sm: https://source.unsplash.com/xekxE_VR0Ec/500x300
 ---
 I like coding. I don’t wait and plan and draw flowcharts and dry run algorithms. It takes the fun out of it. Adding an extra feature is usually not a problem at all. However changing the way you solved a module and adopting a new method (upon direction from a supervisor), which is not the way you would rather do it, is very frustrating. I consider programming as an art, which just like art forms expresses your personality. So there shouldn’t be a check list. There are indeed certain things that must be kept in mind, if it doesn’t come naturally. That however doesn’t mean you have to figure out every detail beforehand.
 
