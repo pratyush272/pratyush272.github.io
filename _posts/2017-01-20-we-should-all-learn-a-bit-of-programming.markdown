@@ -6,8 +6,8 @@ categories:
   - Programming
   - Opinion
 description: 
-image: https://unsplash.it/2000/1200?image=4
-image-sm: https://unsplash.it/500/300?image=4
+image: https://source.unsplash.com/OqtafYT5kTw/2000x1200
+image-sm: https://source.unsplash.com/OqtafYT5kTw/500/300
 ---
 Programming is a world in itself. There is no common sense in computers, no emotion and no assumptions. Everything is analytical and logically derived. The things that you start to learn right from your first Hello World will change the way you think and make decisions in real life. Here are a few of them.
 
