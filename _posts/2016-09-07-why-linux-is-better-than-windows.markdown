@@ -9,7 +9,7 @@ image: https://source.unsplash.com/9zTafGVsv-c/2000x1200
 image-sm: https://source.unsplash.com/9zTafGVsv-c/500x300
 ---
 
-****Windows Advantages****
+## Windows Advantages
 
 **Software Collection:** There is a much larger selection of available software programs, utilities, and games for Windows. More than the Operating System itself, this is the bigger reason for popularity of Windows. However that mean that Linux doesn’t have all the software that any average user (or even a professional for that matter) might need, it’s just that the Linux alternative might require relearning a new interface.    
 The Linux variants for many of the popular softwares are made available by the respective company but quite often these variants are not as cutting edge and actively updated as their windows counterparts. The first thing that Windows refugees miss in Linux (apart from the _refresh_ option) is MS Office Suit.
@@ -27,7 +27,7 @@ Although the major Linux variants have improved dramatically in ease of use, Win
 Windows hides almost all customization options (especially hardware customization). This is done mainly because since all major PC models are shipped with their own copy of windows, most of the settings are optimized for that particular hardware. This protects the windows from  tinkering that might harm the hardware if you don’t know what you are doing. eg. Overclocking the CPU might improve the performance but if done casually may burn your PC.
 
 
-****Linux Advantages (For average User)****
+## Linux Advantages (For average User)
 
 **Price:** All popular Linux variants (called Linux Distros) are available for free. Microsoft Windows can run between $50.00 – $150.00 US dollars per each license copy.
 
@@ -64,7 +64,7 @@ will download and install  the latest version of Firefox on the system and add 
  ![](https://i.ytimg.com/vi/pae1jwEf2DI/maxresdefault.jpg){:class="img-responsive"}
  
  
- ****Linux Advantages (For intermideate User)****
+## Linux Advantages (For intermideate User)
  
  **Command Line Advantage: **  Though the average Windows refugee would never have to open the terminal if he chooses not to and still have access to every service he had on a windows and more. But the command line will always be an invaluable tool for administration purposes. The excellent collection of command line apps for RSS, Internet Browsers, IM (and even Video Players) give absolute power and transparency to the user while being extremely light on the system resources due to absence of a Graphical Interface (ie. windows, frames, icons, buttons)
  
