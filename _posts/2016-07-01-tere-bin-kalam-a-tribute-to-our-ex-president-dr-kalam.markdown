@@ -4,6 +4,7 @@ title: "Tere bin Kalam: A Tribute to our ex-president Dr. Kalam"
 date: 2016-07-01
 categories:
   - Inspiration
+  - Music
 description: 
 image: /img/kalam1.jpg
 ---
