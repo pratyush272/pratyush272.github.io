@@ -3,7 +3,7 @@ layout: post
 title: "How to select and learn a musical instrument"
 date: 2016-09-07
 categories:
-  - Lit / Music
+  - music-lit
 description: 
 image: https://unsplash.it/2000/1200?image=0
 image-sm: https://unsplash.it/500/300?image=0
