@@ -3,13 +3,13 @@ email: contact@pratyush.info
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-61692228-1
 
 # SEO settings
 title: Pratyush Srivastava
 description: Simplicity . Silence . Surrender
-url: ""
-twitter_username: 
+url: "http://pratyush.info"
+twitter_username: pratyush272
 default_img: 
 
 # Profile settings
