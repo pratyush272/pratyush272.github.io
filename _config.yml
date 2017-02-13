@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: contact@pratyush.info
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
