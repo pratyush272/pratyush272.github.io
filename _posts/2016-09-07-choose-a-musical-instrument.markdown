@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Choose a musical instrument"
 date: 2016-09-07
