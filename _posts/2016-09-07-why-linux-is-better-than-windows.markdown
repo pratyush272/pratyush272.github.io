@@ -60,3 +60,8 @@ The Reliability and stability of Linux recommends it for all extreme tasks like 
 
 ![](https://http://www.dedoimedo.com/images/computers_years/2010_1/linux-security-teaser.png){:class="img-responsive"}
 
+**Open Source:**  Microsoft Windows and the majority of Windows programs are not open source. Whereas many of the Linux Distros and softwares are open source and enable users to customize or modify the code however they want to, (and legally too). Though this is particularly exciting for those who aren’t scared of a little programming, this does showcase the generosity and open nature of Linux community.
+
+**Support:** The peer support is absolutely amazing in Linux. Most of the problems that users might face has been dealt with hundreds of times for all Linux Distributions in various forums and all you need is google. Although it may be more difficult to find users familiar with all Linux variants, there are vast amounts of available online documentation and community support for Linux. Microsoft Windows is limited to its own help section, online documentation and customer support. 
+
+![](http://i.imgur.com/oYEucEu.jpg){:class="img-responsive"}
