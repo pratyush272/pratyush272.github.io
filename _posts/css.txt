@@ -1,4 +1,5 @@
 <style> div.prompt {display: none;}body > main > article > section.section-padding.bg-grey > div {width: 100%;max-width: 100%;} 
 \#notebook-container > div > div.output_wrapper > div > div > div.output_png.output_subarea > img {max-width: 450px!important;  margin: auto!important;}
 body > main > article > section.section-padding.bg-grey > div > div > div > section > section > div:nth-child(odd) > div.output_wrapper > div > div > div.output_html.rendered_html.output_subarea{max-width: 100%;font-size: 70%!important;}
+body > main > article > section.section-padding.bg-grey > div > div > div > section > section > div:nth-child(odd) > div.output_wrapper > div > div >div.output_png.output_subarea {max-width: 450px;}
 </style>
