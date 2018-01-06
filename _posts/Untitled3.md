@@ -1,6 +1,5 @@
 
 
-
 ```R
 library(caTools)
 df<- read.csv("Salary_Data.csv")
