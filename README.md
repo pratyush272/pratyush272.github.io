@@ -1,119 +1,35 @@
-# 🏆 – A Blog Theme for Jekyll
-Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, Rellax, and WOW.js.
+# Brandi - OnePage Bootstrap Business Template
 
-## Screenshots
-Blog Page (Posts)
-![Blog Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-1.png "Desktop screenshot")
+Looking for something unique for your next business and corporate websites? Meet Brandi, the free responsive one page bootstrap business template. Twitter Bootstrap 3.x framework powers the template. No extra code, no additional feature which provides end users a dominant power to build any kind awesome website having ease in mind. The bootstrap based one page HTML template lightweight and fast loading perfectly suited for the site either they have high or low traffic. Business, corporate, portfolio, agency, blog, app showcase, photography, resume, creative agency, portfolio showcase, and creative platform are the perfect place to suit niches of this HTML theme.
 
-Blog Page (Categories)
-![Blog Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-2.png "Desktop screenshot")
+PSD credit: https://dribbble.com/themecurve
 
-Post Page (Mast)
-![Post Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-3.png "Desktop screenshot")
+<img src="https://cloud.githubusercontent.com/assets/10640964/5989549/0f93dfc8-a9b6-11e4-8f1e-75189f6a5759.jpg" alt="Free bootstrap business template by themefisher">
 
-Post Page (Profile & Footer)
-![Post Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-4.png "Desktop screenshot")
+**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/themefisher) to keep you update with this template.
 
-Archive Page
-![Archive Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-5.png "Desktop screenshot")
+## Demo & Download 
 
-## Installation
-All dependencies are saved in the ````Gemfile````. Run ````bundle install```` (Install [Bundler](http://bundler.io/) if it is not already) after cloning the repo.
-
-## Edit Theme
-I made everything as easy as possible to edit. Most things can be found in the ````_config.yml````, but if more editing is required digging through the code will be required. The ````head.html```` file is in the ````_includes```` folder and the Sass variables are found in the ````_base.scss```` file in the ````_sass```` folder.
-
-### _config.yml
-
-#### Site Settings
-    email: 
-    baseurl: ""
-    paginate: 5
-    paginate_path: "/blog/page-:num"
-    google_analytics: UA—XXXXXXXX-X
-
-* ````email```` - Your email for the contact card and the footer
-* ````baseurl```` - Path of blog if adding this on to another website
-* ````paginate```` - Number of blog posts per page
-* ````paginate_path```` - URL structure of paginated pages
-* ````google_analytics```` - Option field to replace with correct Google Analytics code
-
-#### SEO Settings
-    title: 
-    description: 
-    url: ""
-    twitter_username: 
-    default_img: 
-
-* ````title```` - Title of blog
-* ````description```` - Description of blog (recommended to not go over 160 characters)
-* ````url```` - URL of main website
-* ````twitter_username```` - Twitter username
-* ````default_img```` - Image that will appear when posting links on social networks
-
-#### Profile Settings
-    name: 
-    profile_img: 
-    profile: 
-    social:
-      github: 
-
-* ````name```` - Full name for SEO purposes
-* ````profile_img```` - Image for the profile card (size to 2000x1200px)
-* ````profile```` - Short description that will be in the profile card
-* ````social```` - List of social networks for icons in the contact card and the footer ([Font Awesome](http://fontawesome.io/) is used, so only match the name of the icon, but do not include ````fa-````)
+A fully functional demo is available at <a href="http://demo.themefisher.com/demos/?theme=brandi">Demo</a>
+You can visit our website to download this theme <a href="https://themefisher.com/products/brandi-responsive-one-page-bootstrap-business-template/">Download Now</a>
+ 
 
 
-#### Build Settings
-    include: ["_categories"]
-    exclude: []
-    permalink: /:year/:month/:day/:title/
+## Bugs Reports
 
-* ````include```` - Folders that are not automatically included in Jekyll
-* ````exclude```` - Folders that are excluded from `_site_`
-* ````permalink```` - URL structure of blog posts
+Have a bug or a feature request? Please open a new issue.
 
-### _posts
-    ---
-    layout: post
-    title: ""
-    date: 
-    categories:
-    description: 
-    image: 
-    image-sm:
-    ---
+## Copyright and license
 
-This is the YAML front matter block for blog posts.
-* ````layout```` - This field will always be post
-* ````title```` - The title of the blog post
-* ````date```` - The date that will appear on the blog post
-* ````categories```` - Optional field that can be entered as an array or a list
-* ````description```` - Optional field for SEO (recommended to not go over 160 characters)
-* ````image```` - The blog theme was designed for 2000x1200px images (optimize your images because this is a picture heavy theme)
-* ````image-sm```` - Optional field for card layouts for image optimization and page speed (designed for 500x300px images)
+Copyright 2017 themefisher.com, <a target="_blank" href="https://themefisher.com/license">License</a>
 
-### _categories
-    ---
-    layout: default
-    title: New Category
-    description:
-    permalink: /category/new-category/
-    ---
-    {% include category.html %}
+## Support Themefisher Development
+This template is a MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying one of our [premium templates](https://themefisher.com/premium-templates/).
 
-Jekyll does not have anything built in for categories, so I made making new categories as simple as possible.
-* ````layout```` - This field will always be default
-* ````title```` - Name of the category
-* ````description```` - Optional field for SEO (recommended to not go over 160 characters)
-* ````permalink```` - URL for the category
 
-## Upcoming Additions
-* Page transitions
-* More styled elements for blog posts
+### Check out our FREE Bootstrap & HTML5 Templates
+Get More FREE Bootstrap templates from our store <a href="https://themefisher.com/free-bootstrap-templates">Bootstrap Templates Store</a>
+And if you want FREE HTML5 Templates then please visit our listing content <a href="https://themefisher.com/best-free-html5-templates-2016/">HTML5 Templates</a>
+Visit Our Website For More Amazing Works
+<a href="https://themefisher.com">Website</a>
 
-## Issues
-Please submit any issues [here](https://github.com/thomasvaeth/trophy-jekyll/issues).
-
-## License
-Trophy is licensed under the MIT License.
